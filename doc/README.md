@@ -24,6 +24,11 @@ http://krasimirtsonev.com/blog/article/Dependency-Injection-in-PHP-example-how-t
 - doc http://laravel.com/docs/5.1/container
 - code https://github.com/laravel/framework/tree/5.1/src/Illuminate/Container
 
+### Symfony
+
+- doc http://symfony.com/doc/current/components/dependency_injection/introduction.html
+- code https://github.com/symfony/DependencyInjection
+
 ## Slide
 
 see [slide](Slide.md)
